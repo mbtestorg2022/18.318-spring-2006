@@ -14,10 +14,63 @@ uid: cf9b921e-c883-f0e6-991d-1073699a190a
 
 Further gradations are indicated by + and -; e.g., \[3-\] is a little easier than \[3\]. A rating of \[5-\] denotes an unsolved problem that has received little (if any) attention and may not be difficult.
 
-| Assignments | Comments |
-| --- | --- |
-| Problem Set 1 ([PDF]({{< baseurl >}}/resources/hw1)) | Hand in your best three problems. |
-| Problem Set 2 ([PDF]({{< baseurl >}}/resources/hw2)) | Hand in your best four problems. |
-| Problem Set 3 ([PDF]({{< baseurl >}}/resources/hw3)) | Hand in your best four problems. |
-| Problem Set 4 ([PDF]({{< baseurl >}}/resources/hw4)) | Hand in Problem 4 (required of everyone) and your best two problems of those that remain (three problems in all). |
-| Problem Set 5 ([PDF]({{< baseurl >}}/resources/hw5)) | Hand in your best three problems.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignments
+{{< thclose >}}
+{{< thopen >}}
+Comments
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 1 ([PDF]({{< baseurl >}}/resources/hw1))
+{{< tdclose >}}
+{{< tdopen >}}
+Hand in your best three problems.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 2 ([PDF]({{< baseurl >}}/resources/hw2))
+{{< tdclose >}}
+{{< tdopen >}}
+Hand in your best four problems.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 3 ([PDF]({{< baseurl >}}/resources/hw3))
+{{< tdclose >}}
+{{< tdopen >}}
+Hand in your best four problems.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 4 ([PDF]({{< baseurl >}}/resources/hw4))
+{{< tdclose >}}
+{{< tdopen >}}
+Hand in Problem 4 (required of everyone) and your best two problems of those that remain (three problems in all).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 5 ([PDF]({{< baseurl >}}/resources/hw5))
+{{< tdclose >}}
+{{< tdopen >}}
+Hand in your best three problems.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

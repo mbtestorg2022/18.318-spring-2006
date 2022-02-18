@@ -24,9 +24,64 @@ Outline
 
 A tentative description of the first part of the course is as follows:
 
-| Topic # | DESCRIPTIONS |
-| --- | --- |
-| 1 | _Selection of Topics from Linear Algebra_  {{< br >}}  {{< br >}}Odd Subsets with Even Intersections  {{< br >}}  {{< br >}}Partitioning the Edges of the Complete Graph Kn into Complete Bipartite Subgraphs  {{< br >}}  {{< br >}}The Nonuniform Fisher Inequality  {{< br >}}  {{< br >}}Odd Neighborhood Covers  {{< br >}}  {{< br >}}The Shannon Capacity of the 5-cycle |
-| 2 | A Taste of Algebraic Number Theory: Circulant Hadamard Matrices |
-| 3 | Commutative Algebra and the f-vectors of Simplicial Complexes |
-| 4 | Exterior Algebra and the f-vectors of Simplicial Complexes
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Topic #
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+_Selection of Topics from Linear Algebra_  
+  
+Odd Subsets with Even Intersections  
+  
+Partitioning the Edges of the Complete Graph Kn into Complete Bipartite Subgraphs  
+  
+The Nonuniform Fisher Inequality  
+  
+Odd Neighborhood Covers  
+  
+The Shannon Capacity of the 5-cycle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+A Taste of Algebraic Number Theory: Circulant Hadamard Matrices
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Commutative Algebra and the f-vectors of Simplicial Complexes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Exterior Algebra and the f-vectors of Simplicial Complexes
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
